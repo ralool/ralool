@@ -2,8 +2,6 @@
 
 ### A passionate AI Engineer and Frontend Developer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ralool&label=Profile views&color=0e75b6&style=flat" alt="ralool" /> </p>
-
 - 🌱 I'm currently learning **Microservices and Deployments**
 
 - 📫 How to reach me **rolaibrahim132@gmail.com**
