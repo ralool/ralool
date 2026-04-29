@@ -20,7 +20,7 @@
     <img src="https://cdn.simpleicons.org/github/181717" height="40"/>
   </a>
   <a href="https://linkedin.com/in/rolaibrahim13">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="40"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" height="40"/>
   </a>
 </p>
 
@@ -31,7 +31,7 @@
 <p align="left">
 
   <a href="https://getbootstrap.com"><img src="https://cdn.simpleicons.org/bootstrap/7952B3" height="45"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://cdn.simpleicons.org/css3/1572B6" height="45"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/css3.svg" height="45"/></a>
   <a href="https://expressjs.com"><img src="https://cdn.simpleicons.org/express/000000" height="45"/></a>
   <a href="https://www.figma.com"><img src="https://cdn.simpleicons.org/figma/F24E1E" height="45"/></a>
   <a href="https://cloud.google.com"><img src="https://cdn.simpleicons.org/googlecloud/4285F4" height="45"/></a>
