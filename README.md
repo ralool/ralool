@@ -40,7 +40,7 @@
   <a href="https://huggingface.co"><img src="https://cdn.simpleicons.org/huggingface/FFD21E" height="45"/></a>
   <a href="https://www.java.com"><img src="https://cdn.simpleicons.org/openjdk/ED8B00" height="45"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="45"/></a>
-  <a href="https://matplotlib.org"><img src="https://cdn.simpleicons.org/matplotlib/11557C" height="45"/></a>
+  <a href="https://matplotlib.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="45"/></a>
   <a href="https://www.mongodb.com"><img src="https://cdn.simpleicons.org/mongodb/47A248" height="45"/></a>
   <a href="https://nextjs.org"><img src="https://cdn.simpleicons.org/nextdotjs/000000" height="45"/></a>
   <a href="https://nodejs.org"><img src="https://cdn.simpleicons.org/nodedotjs/339933" height="45"/></a>
