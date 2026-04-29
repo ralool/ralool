@@ -2,23 +2,48 @@
 
 ### A passionate AI Engineer and Frontend Developer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ralool&label=Profile%20views&color=0e75b6&style=flat" alt="ralool" /> </p>
-
-- 🌱 I'm currently learning **Microservices and Deployments**
-
-- 📫 How to reach me **rolaibrahim132@gmail.com**
-
-- 👨‍💻 All of my projects are available at **[https://github.com/ralool](https://github.com/ralool)**
-
-- 📄 Know about my experiences **[https://drive.google.com/file/d/1I8QetHKP5oLWRNccZGrxlS3PxH2YvSC0/view?usp=sharing](https://drive.google.com/file/d/1I8QetHKP5oLWRNccZGrxlS3PxH2YvSC0/view?usp=sharing)**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://github.com/ralool" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="ralool" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/rolaibrahim13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rolaibrahim13" height="30" width="40" /></a>
+  <img src="https://komarev.com/ghpvc/?username=ralool&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/bootstrap" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/express" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/figma" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/gcp" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=gcp" alt="gcp" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/huggingface" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/huggingface" alt="huggingface" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/matplotlib" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nextjs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/numpy" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/ollama" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/ollama" alt="ollama" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/pandas" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/pytorch" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=pytorch" alt="pytorch" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/redis" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=redis" alt="redis" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/redux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=redux" alt="redux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/spring" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=spring" alt="spring" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/streamlit" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" alt="streamlit" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tailwind" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tensorflow" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tensorflow" alt="tensorflow" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/unity" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=unity" alt="unity" width="40" height="40"/> </a></p>
+- 🌱 I'm currently learning **Microservices and Deployments**
+- 📫 How to reach me **rolaibrahim132@gmail.com**
+- 👨‍💻 All of my projects are available at **https://github.com/ralool**
+- 📄 Know about my experiences **https://drive.google.com/file/d/1I8QetHKP5oLWRNccZGrxlS3PxH2YvSC0/view**
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ralool&show_icons=true&locale=en&layout=compact" alt="ralool" /></p>
+---
+
+### 🔗 Connect with me
+
+<p align="left">
+  <a href="https://github.com/ralool">
+    <img src="https://skillicons.dev/icons?i=github" height="40"/>
+  </a>
+  <a href="https://linkedin.com/in/rolaibrahim13">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+  </a>
+</p>
+
+---
+
+### ⚙️ Languages and Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=bootstrap,css,express,figma,gcp,git,html,java,js,mongodb,nextjs,nodejs,postgres,python,pytorch,react,redis,redux,spring,tailwind,tensorflow,ts,unity&perline=18" />
+</p>
+
+<!-- Extra tools not supported by skillicons -->
+<p align="left">
+  <img src="https://cdn.simpleicons.org/huggingface/FFD21E" height="45"/>
+  <img src="https://cdn.simpleicons.org/ollama/000000" height="45"/>
+  <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="45"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ralool&show_icons=true&locale=en&layout=compact" />
+</p>
